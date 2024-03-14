@@ -1,4 +1,4 @@
-# Pwnagotchi
+# Pwnagotchi for Flipper Zero
 This is the main source for all forks:
 - RPiZeroW (32bit)
 - RPiZero2W, RPi3, RPi4, RPi5 (64bit)
